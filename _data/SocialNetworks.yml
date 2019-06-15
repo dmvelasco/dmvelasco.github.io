@@ -94,11 +94,14 @@ yelp:
 scholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
-  icon: "fa-googlescholar"
+  icon: "fa-google"
 
 orcid:
   name: "ORCiD"
   baseURL: "https://orcid.org/"
-  icon: "fa-orcid"
+  icon: "img/ORCID-iD_icon-bw-664x64.png"
   
 researchgate:
+  name: "ResearchGate"
+  baseURL: "https://www.researchgate.net/profile/"
+  icon: "researchgate"
