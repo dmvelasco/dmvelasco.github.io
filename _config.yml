@@ -74,7 +74,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+#  rss: false
   email: "dmvelasco@ucdavis.edu"
 #  facebook: daattali
   github: dmvelasco
@@ -100,6 +100,8 @@ share-links-active:
   twitter: true
   facebook: false
   linkedin: false
+  scholar: true
+  orcid: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
