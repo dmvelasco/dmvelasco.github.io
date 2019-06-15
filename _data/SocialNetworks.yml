@@ -97,7 +97,7 @@ scholar:
   icon: "fa-google"
 
 orcid:
-  name: "ORCiD"
+  name: "ORCID"
   baseURL: "https://orcid.org/"
   icon: "img/ORCID-iD_icon-bw-664x64.png"
   
