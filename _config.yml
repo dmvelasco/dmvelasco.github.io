@@ -25,7 +25,7 @@ title: Dianne Velasco
 navbar-links:
 ##  About: "aboutme"
 ##  Research: "research"
-##  Publications: "publications"
+  Publications: "publications"
   Contact: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
