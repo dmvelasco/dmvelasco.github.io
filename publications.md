@@ -32,4 +32,4 @@ Kluepfel, D. A., Aradhya, M. K., Browne, G. T., McKenry, M. V., Leslie, C. A., M
 
 Syouf, M. Q., Aradhya, M. K., Koehmstedt, A. M., **Velasco, D.**, & Stover, E. (2011). Phylogeny of _Pistacia_ (Ancardiaceae) based on chloroplast DNA non-coding spacer sequences. In I International Symposium on Wild Relatives of Subtropical and Temperate Fruit and Nut Crops 948 (pp. 113-119).
 
-Aradhya, M., Woeste, K., & **Velasco, D.** (2009, February). Genetic diversity, structure and differentiation in cultivated walnut (Juglans regia L.). In VI International Walnut Symposium 861 (pp. 127-132).
+Aradhya, M., Woeste, K., & **Velasco, D.** (2009). Genetic diversity, structure and differentiation in cultivated walnut (Juglans regia L.). In VI International Walnut Symposium 861 (pp. 127-132).
