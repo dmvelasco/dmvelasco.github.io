@@ -13,4 +13,4 @@ Scientific American, [The bitter truth: scientists sequence the almond genome](h
 National Public Radio, The Salt, [How almonds went from deadly to delicious](https://www.npr.org/sections/thesalt/2019/06/13/732160949/how-almonds-went-from-deadly-to-delicious), June 13, 2019<br/>
 
 ### Events
-STEM for Girls, Yolo County Office of Education, **year**<br/>
+STEM for Girls, Yolo County Office of Education, 2016<br/>
