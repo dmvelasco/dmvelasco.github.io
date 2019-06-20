@@ -4,10 +4,10 @@ title: Research
 bigimg: "/img/romanesco.jpg"
 ---
 
-<center><i>“Curiously enough, the only thing that went through the mind of the bowl of petunias as it fell was Oh no, not again. Many people have speculated that if we knew exactly why the bowl of petunias had thought that we would know a lot more about the nature of the Universe than we do now.” </i> ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</center>   
+<center><i>“Interesting quote here.”</i> ― attribution</center>   
 
 <p align="justify">
-Broadly, my research interests include anything related to plant breeding and genetics. The projects I get most excited about combine interdisciplinary approaches, such as statistics and image analysis, to generate meaningful insight into genetic variation through the optimization of experimental design and data analysis.</p>
+Broadly, my research interests include anything related to domestication, evolution, genetics, and germplasm and their application to plant breeding. The projects I get most excited about combine interdisciplinary approaches, such as statistics and image analysis, to generate meaningful insight into genetic variation through the optimization of experimental design and data analysis.</p>
 
 ## Genetics of Complex Traits
 <p align="justify">
