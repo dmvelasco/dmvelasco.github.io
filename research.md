@@ -4,7 +4,7 @@ title: Research
 bigimg: "/img/romanesco.jpg"
 ---
 
-<center><i>“The planting of a tree, especially one of the long-living hardwood trees, is a gift which you can make to posterity at almost no cost and with almost no trouble, and if the tree takes root it will far outlive the visible effect of any of your other actions, good or evil.”</i> ― George Orwell, <a href="http://orwell.ru/library/reviews/vicar/english/e_vicar">A Good Word for the Vicar of Bray</a></center>   
+<center><i>“The planting of a tree, especially one of the long-living hardwood trees, is a gift which you can make to posterity at almost no cost and with almost no trouble, and if the tree takes root it will far outlive the visible effect of any of your other actions, good or evil.”</i><br /> ― George Orwell, <a href="http://orwell.ru/library/reviews/vicar/english/e_vicar">A Good Word for the Vicar of Bray</a></center>   
 
 <p align="justify">
 Broadly, my research interests include domestication, evolution, genetics, and germplasm and their application to plant breeding, particularly perennial fruit and nut crops. The projects I get most excited about combine interdisciplinary approaches, such as statistics and image analysis, to generate meaningful insight into genetic variation through the optimization of experimental design and data analysis.</p>
