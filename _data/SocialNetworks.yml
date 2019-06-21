@@ -4,6 +4,7 @@
 #   name: Specify a user-friendly name that will be used as a link title
 #   baseURL: Define a base URL which will be combined with the value of
 #            site.social-network-links.<key>
+#   type: Specify fontawesome (fa) or academicons (ai)
 #   icon: Specify a valid fontawesome icon class
 
 facebook:
@@ -14,11 +15,13 @@ facebook:
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
+  type: "fa"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
+  type: "fa"
   icon: "fa-twitter"
 
 reddit:
@@ -29,6 +32,7 @@ reddit:
 email:
   name: "Email me"
   baseURL: "mailto:"
+  type: "fa"
   icon: "fa-envelope"
 
 linkedin:
@@ -94,14 +98,17 @@ yelp:
 scholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
+  type: "ai"
   icon: "ai-google-scholar"
 
 orcid:
   name: "ORCID"
   baseURL: "https://orcid.org/"
+  type: "ai"
   icon: "ai-orcid"
   
 researchgate:
   name: "ResearchGate"
   baseURL: "https://www.researchgate.net/profile/"
+  type: "ai"
   icon: "ai-researchgate"
