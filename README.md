@@ -1,1 +1,1 @@
-Forked from [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) and inspired by [Sarah Turner-Hissong](https://mishaploid.github.io/)
+Forked from [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll), inspired by [Sarah Turner-Hissong](https://mishaploid.github.io/), and modified to use [Academicons](http://jpswalsh.github.io/academicons/) with knowledge gained by [Gert Stulp](https://www.gertstulp.com/post/academic-hugo/)'s [beautiful-jekyll repository] (https://github.com/gertstulp/gertstulp.github.io)
