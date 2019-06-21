@@ -10,6 +10,7 @@
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
+  type: "fa"
   icon: "fa-facebook"
 
 github:
@@ -27,6 +28,7 @@ twitter:
 reddit:
   name: "Reddit"
   baseURL: "https://reddit.com/u/"
+  type: "fa"
   icon: "fa-reddit"
 
 email:
@@ -38,61 +40,73 @@ email:
 linkedin:
   name: "LinkedIn"
   baseURL: "https://linkedin.com/in/"
+  type: "fa"
   icon: "fa-linkedin"
 
 xing:
   name: "Xing"
   baseURL: "https://www.xing.com/profile/"
+  type: "fa"
   icon: "fa-xing"
 
 stackoverflow:
   name: "StackOverflow"
   baseURL: "https://stackoverflow.com/users/"
+  type: "fa"
   icon: "fa-stack-overflow"
 
 snapchat:
   name: "Snapchat"
   baseURL: "https://www.snapchat.com/add/"
+  type: "fa"
   icon: "fa-snapchat-ghost"
 
 instagram:
   name: "Instagram"
   baseURL: "https://www.instagram.com/"
+  type: "fa"
   icon: "fa-instagram"
 
 youtube:
   name: "YouTube"
   baseURL: "https://www.youtube.com/"
+  type: "fa"
   icon: "fa-youtube"
 
 spotify:
   name: "Spotify"
   baseURL: "https://open.spotify.com/user/"
+  type: "fa"
   icon: "fa-spotify"
 
 telephone:
   name: "Phone"
   baseURL: "tel:"
+  type: "fa"
   icon: "fa-phone"
 
 rss:
   name: "RSS"
   baseURL: "{{ '/feed.xml' | relative_url }}"
+  type: "fa"
   icon: "fa-rss"
 
 steam:
   name: "Steam"
   baseURL: "https://steamcommunity.com/id/"
+  type: "fa"
   icon: "fa-steam"
 
 twitch:
   name: "Twitch"
   baseURL: "https://www.twitch.tv/"
+  type: "fa"
   icon: "fa-twitch"
 
 yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
+  type: "fa"
   icon: "fa-yelp"
 
 scholar:
