@@ -11,7 +11,7 @@ Riaz, S., De Lorenzis, G., **Velasco, D.**, Koehmstedt, A., Maghradze, D., Bobok
 
 Aradhya, M., **Velasco, D.**, Ibrahimov, Z., Toktoraliev, B., Maghradze, D., Musayev, M., … & Preece, J. E. (2017). Genetic and ecological insights into glacial refugia of walnut (_Juglans regia_ L.). PloS One, 12(10), e0185974. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185974)
 
-Salazar, J. A., Pacheco, I., Shinya, P., Zapata, P., Silva, C., Aradhya, M., … **Velasco, D.** … & Infante, R. (2017). Genotyping by sequencing for SNP-based linkage analysis and identification of QTLs linked to fruit quality traits in Japanese plum (Prunus salicina Lindl.). Frontiers in Plant Science, 8, 476. [Link](https://www.frontiersin.org/articles/10.3389/fpls.2017.00476)
+Salazar, J. A., Pacheco, I., Shinya, P., Zapata, P., Silva, C., Aradhya, M., … **Velasco, D.** … & Infante, R. (2017). Genotyping by sequencing for SNP-based linkage analysis and identification of QTLs linked to fruit quality traits in Japanese plum (_Prunus salicina_ Lindl.). Frontiers in Plant Science, 8, 476. [Link](https://www.frontiersin.org/articles/10.3389/fpls.2017.00476)
 
 Migicovsky, Z., Sawler, J., Money, D., Eibach, R., Miller, A. J., Luby, J. J., … **Velasco, D.** … & Wührer, W. (2016). Genomic ancestry estimation quantifies use of wild species in grape breeding. BMC Genomics, 17(1), 478. [Link](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2834-8)
 
