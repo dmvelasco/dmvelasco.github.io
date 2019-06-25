@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Academicons with beautiful-jekyll
-subtitle: How to have icon links to academic websites
+subtitle: How to include academic icons for linking to academic websites
 ---
 
 ### Using [Academicons](http://jpswalsh.github.io/academicons/) with the [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) theme
