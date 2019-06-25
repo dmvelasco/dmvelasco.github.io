@@ -52,8 +52,8 @@ common-ext-css:
   - "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"
 ```
 
-Modify the `_config.yml` file to add the academic social network in the `social-networks-links` section. 
-Follow the already present formatting by adding the academic social network name and a colon followed by your username.
+Modify the `_config.yml` file to add your academic social networks of interest in the `social-networks-links` section. 
+Follow the existing formatting by adding the academic social network name and a colon followed by your username.
 
 #### Step 4 - refresh and enjoy
 Your academic icon links should now be included in your page footer. Yay you!
