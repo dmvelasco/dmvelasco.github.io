@@ -45,7 +45,12 @@ Add any desired Academicons with the above format using the icon designation fro
 Modify the file `_includes/footer.html` so that the type element from `_data/SocialNetworks.yml` is encoded properly for the element icon.
 Change `fa` in `{% raw %}<i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>{% endraw %}` to `{% raw %}{{ element.type }}{% endraw %}` so the line reads `{% raw %}<i class="{{ element.type }} {{ element.icon }} fa-stack-1x fa-inverse"></i>{% endraw %}`.
 
-Modify the file `_layouts/base.html` after the `common-ext-css:` line by adding the line `- "/css/academicons.css"` before `- "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"`. Both lines should have the same level of indentation.
+Modify the file `_layouts/base.html` after the `common-ext-css:` line by adding the line `- "/css/academicons.css"` before `- "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"` and looks like the following.
+```
+common-ext-css:
+  - "/css/academicons.css"
+  - "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"
+```
 
 Modify the `_config.yml` file to add the academic social network in the `social-networks-links` section. 
 Follow the already present formatting by adding the academic social network name and a colon followed by your username.
