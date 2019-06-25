@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Academicons with beautiful-jekyll
+subtitle: How to have icon links to academic websites
 ---
 
 ### Using [Academicons](http://jpswalsh.github.io/academicons/) with the [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) theme
@@ -44,7 +45,8 @@ Change `fa` in `<i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>` to
 
 Modify the file `_layouts/base.html` after the `common-ext-css:` line by adding the line `- "/css/academicons.css"` before `- "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"`. Both lines should have the same level of indentation.
 
-Modify the `_config.yml` file in the `social-networks-links` sections and add the academic social network and your username with the same level of indentation as the other social network link information lines.
+Modify the `_config.yml` file to add the academic social network in the `social-networks-links` section. 
+Follow the already present formatting add the academic social network and a colon followed by your username.
 
 #### Step 4 - refresh and enjoy
-Your academic links should now be included in your page footer. Yay you!
+Your academic icon links should now be included in your page footer. Yay you!
