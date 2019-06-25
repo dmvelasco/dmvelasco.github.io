@@ -9,7 +9,8 @@ subtitle: How to have icon links to academic websites
 For an academic or anyone in an academic-like field there are several important social or informational websites in common use that host information on your academic history, such as [Google Scholar](scholar.google.com). 
 Linking to this information is crucial yet icons representing these sites are not available through icon repository, [Font Awesome](https://fontawesome.com), that beautiful-jekyll uses. 
 However these icons are available from Academicons yet it was not immediately clear how to utilize Academicons with the clean and otherwise user friendly beautiful-jekyll theme. 
-After some searching and a few failed attempts, I hit upon how to make it work, and have shared the steps taken to utilize Academicons with beautiful-jekyll, with no need to hardcode each one into the theme, below.
+After some searching and a few failed attempts, I hit upon how to make it work. 
+Below I have shared the steps taken to utilize Academicons with beautiful-jekyll, without needing to hardcode each one into the theme.
 
 ![Academicons](/img/academicons_and_beautiful-jekyll.png)
 
