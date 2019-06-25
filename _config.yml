@@ -27,7 +27,7 @@ navbar-links:
 ##  Research: "pages/research"
   Publications: "pages/publications"
   Outreach: "pages/outreach"
-  Blog: "pages/index.html"
+  Blog: "pages"
   Contact: "pages/contact"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
