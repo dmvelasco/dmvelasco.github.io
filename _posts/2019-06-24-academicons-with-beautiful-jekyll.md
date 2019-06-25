@@ -19,7 +19,7 @@ Below I have shared the steps taken to utilize Academicons with beautiful-jekyll
 Download Academicons from [http://jpswalsh.github.io/academicons/](http://jpswalsh.github.io/academicons/) and unzip the file
 
 #### Step 2 - upload files to beautiful-jekyll theme
-From the Academicons `css` directory add the `academicons.css` and `academicons.min.cssfiles` to your beautiful-jekyll `css` directory.
+From the Academicons `css` directory add the `academicons.css` and `academicons.min.css` files to your beautiful-jekyll `css` directory.
 	
 Upload the Academicons `fonts` directory to your main beautiful-jekyll directory. The `fonts` directory includes the files: `academicons.eot`, `academicons.svg`, `academicons.ttf`, and `academicons.woff`.
 
