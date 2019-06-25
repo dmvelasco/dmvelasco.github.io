@@ -7,8 +7,9 @@ subtitle: How to have icon links to academic websites
 ### Using [Academicons](http://jpswalsh.github.io/academicons/) with the [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) theme
 
 For an academic or anyone in an academic-like field there are several important social or informational websites in common use that host information on your academic history, such as [Google Scholar](scholar.google.com). 
-Linking to this information is crucial yet icons representing these sites are not available through icon repository, [Font Awesome](https://fontawesome.com), that beautiful-jekyll uses. 
-However these icons are available from Academicons yet it was not immediately clear how to utilize Academicons with the clean and otherwise user friendly beautiful-jekyll theme. 
+Linking to this information is crucial, yet icons representing these sites are not available through the icon repository used by beautiful-jekyll, [Font Awesome](https://fontawesome.com). 
+However, these academic icons are available from Academicons. 
+It was not immediately clear how to utilize Academicons with the clean, and otherwise user friendly, beautiful-jekyll theme. 
 After some searching and a few failed attempts, I hit upon how to make it work. 
 Below I have shared the steps taken to utilize Academicons with beautiful-jekyll, without needing to hardcode each one into the theme.
 
@@ -47,7 +48,7 @@ Change `fa` in `<i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>` to
 Modify the file `_layouts/base.html` after the `common-ext-css:` line by adding the line `- "/css/academicons.css"` before `- "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"`. Both lines should have the same level of indentation.
 
 Modify the `_config.yml` file to add the academic social network in the `social-networks-links` section. 
-Follow the already present formatting add the academic social network and a colon followed by your username.
+Follow the already present formatting by adding the academic social network name and a colon followed by your username.
 
 #### Step 4 - refresh and enjoy
 Your academic icon links should now be included in your page footer. Yay you!
