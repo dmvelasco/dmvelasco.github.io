@@ -2,12 +2,12 @@
 layout: page
 title: About
 subtitle:
-bigimg: "/img/bgcarrot.png"
+bigimg: "/img/crusher_full.jpg"
 ---
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/mustard.png" width="300" alt="Sarah Turner">
-	<figcaption><i>An outing to the mustard museum</i></figcaption>
+	<img src="/img/dv_walnut.jpg" width="300" alt="Dianne Velasco hybridizing Juglans microcarpa with Juglans regia">
+	<figcaption><i>Making interspecific Juglans (walnut) crosses</i></figcaption>
 </div>
 </figure>
 
