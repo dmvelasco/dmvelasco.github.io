@@ -8,7 +8,7 @@ bigimg: "/img/romanesco.jpg"
 
 
 <p align="justify">
-Broadly, my research interests include domestication, evolution, genetics, and germplasm and their application to plant breeding, particularly perennial fruit and nut crops. I enjoy combining these different lines of inquiry to better understand the genetic variation in germplasm and where selection has operated on the genome during evolution and domestication to identify loci of interest that may expedited breeding efforts in these long lived perennial tree crops.</p>
+Broadly, my research interests include domestication, evolution, genetics, and germplasm and their application to plant breeding, particularly perennial fruit and nut crops. I enjoy combining these lines of inquiry to better understand the genetic variation in germplasm and where selection has operated on the genome to identify loci of interest that may expedite breeding efforts in perennial crops.</p>
 
 ## Domestication of Tree Crops
 <p align="justify">
