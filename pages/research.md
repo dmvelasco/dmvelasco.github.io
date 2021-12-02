@@ -16,7 +16,7 @@ Broadly, my research interests include domestication, evolution, genetics, and g
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/almondandhusk_2017-08-08.JPG" width="300" alt="" align="left">
-	<figcaption><i>Almond fruit includes the dry, leathery mesocarp and stony endocarp, which is less stony than endocarps present in wild almond species</i></figcaption>
+	<figcaption><i>A domesticated almond.</i></figcaption>
 </div>
 </figure>
 
@@ -29,7 +29,7 @@ Crop domestication is an area of study that seeks to understand not only how, bu
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/almondpeachhybridsdlgs_2017-12-01.JPG" width="300" alt="" align="right">
-	<figcaption><i>Seedlings of almond and peach interspecific hybrids for rootstock development</i></figcaption>
+	<figcaption><i>Interspecific almond and peach hybrid seedlings.</i></figcaption>
 </div>
 </figure>
 
