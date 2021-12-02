@@ -29,7 +29,7 @@ Crop domestication is an area of study that seeks to understand not only how, bu
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/almondpeachhybridsdlgs_2017-12-01.JPG" width="300" alt="" align="right">
-	<figcaption><i>Interspecific almond and peach hybrid seedlings.</i></figcaption>
+	<figcaption><i>Interspecific almond-peach seedlings.</i></figcaption>
 </div>
 </figure>
 
