@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Outreach
-bigimg: "/img/peachblossoms_2017-03-08.JPG"
+bigimg: "/img/bg_peachblossoms_2017-03-08.JPG"
 ---
 
 ### Invited Talks

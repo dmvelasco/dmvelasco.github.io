@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-bigimg: "/img/cherryfruit_2016-05-20.JPG"
+bigimg: "/img/bg_cherryfruit_2016-05-20.JPG"
 ---
 
 ### Peer Reviewed
