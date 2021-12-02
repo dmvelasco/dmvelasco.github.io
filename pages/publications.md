@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Publications
-bigimg: "/img/bgdiallel.png"
+bigimg: "/img/cherryfruit_2016-05-20.JPG"
 ---
 
 ### Peer Reviewed
-Aradhya, M., **Velasco, D.**, Wang, J.-R., Ramasamy, R., You, F.M., … & Dvorak, J. (2019). A fine-scale genetic linkage map reveals genomic regions associated with economic traits in walnut (_Juglans regia_ L.). Plant Breeding [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12703)
+Ramasamy, R. K., Luo, M.-C., Leslie, C. A., **Velasco, D.**, Ott, N., McClean, A., Dandekar, A. M., Aradhya, M., Brown, P. J., Browne, G. T., Kluepfel, D. A., Westphal, A., & Dvorak, J. (2021). Co-located quantitative trait loci mediate resistance to _Agrobacterium tumefaciens_, _Phytophthora cinnamomi_, and _P. pini_ in _Juglans microcarpa_ x _J. regia_ hybrids. Horticulture Research, 8(1), 1-11. [Link](https://www.nature.com/articles/s41438-021-00546-7)
+
+Aradhya, M. K., **Velasco, D.**, Wang, J.-R., Ramasamy, R., You, F.M., … & Dvorak, J. (2019). A fine-scale genetic linkage map reveals genomic regions associated with economic traits in walnut (_Juglans regia_ L.). Plant Breeding, 138(5), 635-646. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbr.12703)
 
 Riaz, S., De Lorenzis, G., **Velasco, D.**, Koehmstedt, A., Maghradze, D., Bobokashvili, Z., … & Failla, O. (2018). Genetic diversity analysis of cultivated and wild grapevine (_Vitis vinifera_ L.) accessions around the Mediterranean basin and Central Asia. BMC Plant Biology, 18(1), 137. [Link](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1351-0)
 
