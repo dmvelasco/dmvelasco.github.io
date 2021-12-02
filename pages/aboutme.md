@@ -2,7 +2,7 @@
 layout: page
 title: About
 subtitle:
-bigimg: "/img/crusher_full.jpg"
+bigimg: "/img/quinceflowerbuds_2017-03-17.JPG"
 ---
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
