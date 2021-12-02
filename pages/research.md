@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-bigimg: "/img/romanesco.jpg"
+bigimg: "/img/almondnurseryblock_2016-02-21.JPG"
 ---
 
 <center><i>“The planting of a tree, especially one of the long-living hardwood trees, is a gift which you can make to posterity at almost no cost and with almost no trouble, and if the tree takes root it will far outlive the visible effect of any of your other actions, good or evil.”</i><br /> ― George Orwell, <a href="http://orwell.ru/library/reviews/vicar/english/e_vicar">A Good Word for the Vicar of Bray</a></center>   
@@ -15,7 +15,7 @@ Broadly, my research interests include domestication, evolution, genetics, and g
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/carrot_field.png" width="300" alt="" align="left">
+	<img src="/img/almondandhusk_2017-08-08.JPG" width="300" alt="" align="left">
 	<figcaption><i></i></figcaption>
 </div>
 </figure>
@@ -28,7 +28,7 @@ Crop domestication is an area of study that seeks to understand not only how, bu
 	
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/brassica_diversity.png" width="300" alt="" align="right">
+	<img src="/img/almondpeachhybridsdlgs_2017-12-01.JPG" width="300" alt="" align="right">
 	<figcaption><i>+</i></figcaption>
 </div>
 </figure>
