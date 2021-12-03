@@ -15,7 +15,7 @@ Broadly, my research interests include domestication, evolution, genetics, and g
 
 <figure>
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/sm_almondandhusk_2017-08-08.JPG" width="300" alt="" align="left">
+	<a href="/img/almondandhusk_2017-08-08.JPG"><img src="/img/sm_almondandhusk_2017-08-08.JPG" width="300" alt="" align="left"></a>
 	<figcaption><i>A domesticated almond.</i></figcaption>
 </div>
 </figure>
@@ -28,7 +28,7 @@ Crop domestication is an area of study that seeks to understand not only how, bu
 	
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/sm_almondpeachhybridsdlgs_2017-12-01.JPG" width="300" alt="" align="right">
+	<a href="/img/almondpeachhybridsdlgs_2017-12-01.JPG"><img src="/img/sm_almondpeachhybridsdlgs_2017-12-01.JPG" width="300" alt="" align="right"></a>
 	<figcaption><i>Interspecific almond-peach seedlings.</i></figcaption>
 </div>
 </figure>
