@@ -105,3 +105,5 @@ avocado for regional market? local sales. Camellia sinensis (tea)? hardy citrus?
 
 apple, stone fruit, olive, meyer lemon, strawberry for deficit irrigation crops
 </p>
+
+Born in California and raised in the North Bay Area from an early age, I have experienced first-hand the periodic droughts and floods that affect the region. More recently cyclical swings between these extremes occur with greater intensity and increased frequency, as predicted by climate models. Utilizing crops resilient to these extremes and adopting sustainable or regernerative agricultural practices (such as mulching, composting, minimal soil disturbance, integrated animal ) to alleviate and mitigate the most detrimental effects in order for farmers to maintain their livelihood through reliable production (naive statement). Genetic improvement for improved water use efficiency, nutrient acquisition...
