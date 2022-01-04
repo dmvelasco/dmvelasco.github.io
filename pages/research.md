@@ -82,3 +82,9 @@ hedgerows or other planting of natives to promote/support pollinator and wildlif
 avocado for regional market? local sales. Camellia sinensis (tea)? hardy citrus?
 
 apple, stone fruit, olive, meyer lemon, strawberry for deficit irrigation crops
+<figure>
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/dv_walnut.jpg" width="300" alt="Dianne Velasco hybridizing Juglans microcarpa with Juglans regia">
+	<figcaption><i>Making interspecific Juglans (walnut) crosses</i></figcaption>
+</div>
+</figure>
