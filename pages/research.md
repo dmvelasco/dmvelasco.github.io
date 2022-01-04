@@ -9,7 +9,8 @@ bigimg: "/img/bg_almondnurseryblock_2016-02-21.JPG"
 
 
 <p align="justify">
-Broadly, my research interests include domestication, evolution, genetics, and germplasm and their application to plant breeding, particularly perennial fruit and nut crops. I enjoy combining these lines of inquiry to better understand the genetic variation in germplasm and where selection has operated on the genome to identify loci of interest that may expedite breeding efforts in perennial crops.</p>
+Broadly, my research interests include domestication, evolution, genetics, and germplasm and their application to plant breeding, particularly perennial fruit and nut crops. I enjoy combining these lines of inquiry to better understand the genetic variation in germplasm and where selection has operated on the genome to identify loci of interest that may expedite breeding efforts in perennial crops.
+</p>
 
 ## Domestication of Tree Crops
 <p align="justify">
@@ -35,16 +36,35 @@ Crop domestication is an area of study that seeks to understand not only how, bu
 </figure>
 
 Rootstock are commonly used with perennial crops for improved resistance to soilborne pests and pathogens, resilience to abiotic stressors, difficult to root cultivars or species, or ease of rootstock propagation and grafting. Throughout history rootstocks have been generated as seedling populations from open pollination or specific hybrid crosses. More recently growers have increasingly adopted clonally propagated selections of intra- or inter-specific hybrids due to their more consistent performance. The goals of my research are to develop or aid in the development of improved clonal rootstocks for tree crops. Rootstock development in woody perennials requires careful planning due to their life cycle. Progeny testing to identify trees of interest for use in directed crosses. During and prior to my PhD, I made interspecific crosses of _Juglans_, _Prunus_, and _Pistacia_ towards the efforts to identify a) novel individuals with superior performance to available rootstock varieties, b) generate populations gwas testing in collaboration with plant pathology screens, and c) identify trees within germplasm suitable for continued use in breeding efforts.</p>
+</p>
 
 But what have I done???? nothing
 
+<figure>
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+	<img src="/img/dv_walnut.jpg" width="300" alt="Dianne Velasco hybridizing Juglans microcarpa with Juglans regia">
+	<figcaption><i>Making interspecific Juglans (walnut) crosses</i></figcaption>
+</div>
+</figure>
+
+
 ## Climate Resilience
+<p align="justify">
 
 The western US and other Mediterranean climates are characterized by no or negligible summer precipitation, however, water during the growing season is necessary for agricultural production. Climate change, as projected by climate models of the past several decades, has resulted in more extreme weather conditions, evidenced by California's second drought in the past X years only interspersed by floods. Resilience to drought is a key trait for crops to withstand fluctuations in water availability. Irrigation leads to excess salt build up and tolerance to this needed as well. Look for crops that are a) suitable for the changing climate, b) still economically worthwhile, c) do not further contribute to climate change, d) net reduction in greenhouse gas production
+</p>
+
 
 ## Genetic Gain
+<p align="justify">
 
-Genetic gain through plant breeding is an essential means to ensure a stable, nutritious, and sustainable food supply. The ultimate goals of my research are to directly or indirectly facilitate this process by studying patterns of genetic diversity and understanding the inheritance of traits that are important for applied crop improvement. During my PhD, I used a diallel mating design, an F2 mapping population, and image-based phenotyping to describe the genetic architecture of shoot growth in carrots, which is important for successful crop establishment. As a postdoc, my research aims to understand how selection has influenced the genetic, morphological, and metabolic diversity present in <i>Brassica oleracea</i>, which, depending on who you ask, contains up to 14(!) distinct morphotypes. This species is especially exciting as it produces glucosinolates (also known as mustard oils), which impart the characteristic Brassica flavor, have co-evolved with pests, and have putative health benefits.
+Genetic gain through plant breeding is an essential means to ensure a stable, nutritious, and sustainable food supply. The ultimate goals of my research are to directly or indirectly facilitate this process by studying patterns of genetic diversity and understanding the inheritance of traits that are important for applied crop improvement.
+
+During my PhD, I used a diallel mating design, an F2 mapping population, and image-based phenotyping to describe the genetic architecture of shoot growth in carrots, which is important for successful crop establishment.
+
+As a postdoc, my research aims to understand how selection has influenced the genetic, morphological, and metabolic diversity present in <i>Brassica oleracea</i>, which, depending on who you ask, contains up to 14(!) distinct morphotypes.
+
+This species is especially exciting as it produces glucosinolates (also known as mustard oils), which impart the characteristic Brassica flavor, have co-evolved with pests, and have putative health benefits.
 </p>
 
 ## Germplasm
@@ -58,7 +78,9 @@ Genetic gain through plant breeding is an essential means to ensure a stable, nu
 </div>
 </figure>
 
-Specialty Crops
+## Specialty Crops
+<p align="justify">
+
 resilience to drought
 
 reconsider more drought adapted crops
@@ -82,9 +104,4 @@ hedgerows or other planting of natives to promote/support pollinator and wildlif
 avocado for regional market? local sales. Camellia sinensis (tea)? hardy citrus?
 
 apple, stone fruit, olive, meyer lemon, strawberry for deficit irrigation crops
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/dv_walnut.jpg" width="300" alt="Dianne Velasco hybridizing Juglans microcarpa with Juglans regia">
-	<figcaption><i>Making interspecific Juglans (walnut) crosses</i></figcaption>
-</div>
-</figure>
+</p>
