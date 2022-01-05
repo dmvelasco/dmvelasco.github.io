@@ -16,6 +16,7 @@ bigimg: "/img/bg_quinceflowerbuds_2017-03-17.JPG"
 <a href="/docs/Velasco_CV.pdf" target="_blank"><i class="fa fa-file-text fa-lg"></i></a> **Curriculum Vitae**
 
 Hello, my name is Dianne! I was born in California and raised from an early age in the Northern San Francisco Bay Area. I enjoy growing, propagating, and generally poking at plants. In 2019 I completed a **PhD in Genetics** at the [**University of California, Davis**](https://www.ucdavis.edu) with [Jeff Ross-Ibarra](http://rilab.ucdavis.edu). However, my path to a doctorate was not straightforward.
+</p>
 
 ## Pre-academia
 <p align="justify">
