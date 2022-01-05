@@ -4,6 +4,7 @@ title: About
 subtitle:
 bigimg: "/img/bg_quinceflowerbuds_2017-03-17.JPG"
 ---
+
 <p align="justify">
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
@@ -34,7 +35,7 @@ My dissertation work focused on understanding the domestication of almond and pe
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/uni2.jpg" width="300" alt="unifoliolate mapping population">
+	<img src="/img/uni2.jpeg" width="300" alt="unifoliolate mapping population">
 	<figcaption><i>Mapping population of unifoliolate leaf mutation of common bean </i>Phaseolus vulgaris</figcaption>
 </div>
 </figure>
@@ -47,8 +48,8 @@ I re-entered tertiary education at [**Santa Rosa Junior College**](https://www.s
 
 <figure>
 <div style="float: left; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/dv_walnut.jpg" width="300" alt="Dianne Velasco hybridizing Juglans microcarpa with Juglans regia">
-	<figcaption><i>Making interspecific Juglans (walnut) crosses</i></figcaption>
+	<img src="/img/prunuspollen.JPG" width="300" alt="Collecting Prunus pollen">
+	<figcaption><i>Collection Prunus pollen</i></figcaption>
 </div>
 </figure>
 
