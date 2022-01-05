@@ -64,7 +64,7 @@ Having already worked with Paul Gepts, I chose to work with [Jeff Ross-Ibarra](h
 
 <figure>
 <div style="float: left; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/tulips.png" width="300" alt="vignette of tulips, bearded iris, and peach tree in bloom">
+	<img src="/img/tulips.jpg" width="300" alt="vignette of tulips, bearded iris, and peach tree in bloom">
 	<img src="/img/maizepinata.jpg" width="300" alt="maize pinata made for a maize evolutionary biologist">
 	<img src="/img/crybaby.JPG" width="300" alt="one of my chickens as a chick">
 	<figcaption><i>Home ornamental garden vignette, crafted maize pinata, and consumer of chicken feed</i></figcaption>
