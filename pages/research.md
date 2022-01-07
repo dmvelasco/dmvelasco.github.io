@@ -9,7 +9,7 @@ bigimg: "/img/bg_almondnurseryblock_2016-02-21.JPG"
 
 
 <p align="justify">
-Broadly, my research interests include perennial fruit tree fruit and nut crop domestication, evolution, genetics, and germplasm and their application to plant breeding. I enjoy combining lines of inquiry in these topics to better understand the genetic variation in germplasm and where selection has operated on the genome to identify loci of interest that may expedite breeding efforts in perennial crops.
+Broadly, my research interests include perennial fruit and nut tree crop domestication, evolution, and germplasm for use in plant breeding to increase pest, disease, and abiotic resilience. I enjoy exploring these lines of inquiry through genomics to better understand the genetic variation in germplasm and where selection has operated on the genome to identify loci of interest that may expedite breeding efforts in perennial crops.
 </p>
 
 ## Domestication of Tree Crops
@@ -22,7 +22,7 @@ Broadly, my research interests include perennial fruit tree fruit and nut crop d
 </div>
 </figure>
 
-Crop domestication is an area of study that seeks to understand not only how, but where and when humans began cultivating and directing the evolution of a crop and how that domesticated species differs from its progenitor and wild relatives. Domestication in perennial crops is less clear as the progenitor species are not always known, generation time can complicates some study methods, they retain a high degree of heterozygosity, and typically have a low degree of population structure. To gain a deeper understanding of their origins, modifications leading to their present morphology, and when and where these processes occurred has direct implications for crop improvement. Identifying the extent of genetic diversity of the domesticated crop and their wild relatives and how it is expressed may contribute to crop improvement, understanding selection within the domesticate and its wild relatives and which are likely to result in genetic gains. I am currently investigating the demographic history or changes in population size and structure over time and selection in _Prunus_ subgenus _Amygdalus_, the subgenus with almond and peach, using genomic data. I really enjoy working with _Prunus_ subgenus _Amygdalus_ as a study system for domestication, but also feel it is an excellent system for understanding adaptation and mating system differences in trees. The major questions I hope to answer are: (1) What is the relationship between species of subgenus _Amygdalus_?, (2) Does selection in the subgenus correspond to domestication status, climate, or matingy system?, and (3) How can genetic diversity of wild species in _Prunus_ subgenus _Amygdalus_ be utilized for crop improvement?
+Crop domestication is an area of study that seeks to understand not only how, but where and when humans began cultivating and directing the evolution of a crop and how that domesticated species differs from its progenitor and wild relatives. Domestication in perennial crops is less clear as they  progenitor species are not always known, generation time can complicates some study methods, they retain a high degree of heterozygosity, and typically have a low degree of population structure. To gain a deeper understanding of their origins, modifications leading to their present morphology, and when and where these processes occurred has direct implications for crop improvement. Identifying the extent of genetic diversity of the domesticated crop and their wild relatives and how it is expressed may contribute to crop improvement, understanding selection within the domesticate and its wild relatives and which are likely to result in genetic gains. I am currently investigating the demographic history or changes in population size and structure over time and selection in _Prunus_ subgenus _Amygdalus_, the subgenus with almond and peach, using genomic data. I really enjoy working with _Prunus_ subgenus _Amygdalus_ as a study system for domestication, but also feel it is an excellent system for understanding adaptation and mating system differences in trees. The major questions I hope to answer are: (1) What is the relationship between species of subgenus _Amygdalus_?, (2) Does selection in the subgenus correspond to domestication status, climate, or matingy system?, and (3) How can genetic diversity of wild species in _Prunus_ subgenus _Amygdalus_ be utilized for crop improvement?
 </p>
 
 ## Rootstock Improvement 
@@ -37,10 +37,6 @@ Crop domestication is an area of study that seeks to understand not only how, bu
 
 Rootstock are commonly used with perennial crops for improved resistance to soilborne pests and pathogens, resilience to abiotic stressors, difficult to root cultivars or species, or ease of rootstock propagation and grafting. Throughout history rootstocks have been generated as seedling populations from open pollination or specific hybrid crosses. More recently growers have increasingly adopted clonally propagated selections of intra- or inter-specific hybrids due to their more consistent performance. The goals of my research are to develop or aid in the development of improved clonal rootstocks for tree crops. Rootstock development in woody perennials requires careful planning due to their life cycle. Progeny testing to identify trees of interest for use in directed crosses. During and prior to my PhD, I made interspecific crosses of _Juglans_, _Prunus_, and _Pistacia_ towards the efforts to identify a) novel individuals with superior performance to available rootstock varieties, b) generate populations gwas testing in collaboration with plant pathology screens, and c) identify trees within germplasm suitable for continued use in breeding efforts.
 </p>
-
-But what have I done???? nothing
-
-
 
 ## Climate Resilience
 <p align="justify">
@@ -78,6 +74,7 @@ This species is especially exciting as it produces glucosinolates (also known as
 	<figcaption><i>A domesticated almond.</i></figcaption>
 </div>
 </figure>
+</p>
 
 ## Specialty Crops
 <p align="justify">
