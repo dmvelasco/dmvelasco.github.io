@@ -9,7 +9,7 @@ bigimg: "/img/bg_almondnurseryblock_2016-02-21.JPG"
 
 
 <p align="justify">
-Broadly, my research interests include domestication, evolution, genetics, and germplasm and their application to plant breeding, particularly perennial fruit and nut crops. I enjoy combining these lines of inquiry to better understand the genetic variation in germplasm and where selection has operated on the genome to identify loci of interest that may expedite breeding efforts in perennial crops.
+Broadly, my research interests include perennial fruit tree fruit and nut crop domestication, evolution, genetics, and germplasm and their application to plant breeding. I enjoy combining lines of inquiry in these topics to better understand the genetic variation in germplasm and where selection has operated on the genome to identify loci of interest that may expedite breeding efforts in perennial crops.
 </p>
 
 ## Domestication of Tree Crops
@@ -22,7 +22,7 @@ Broadly, my research interests include domestication, evolution, genetics, and g
 </div>
 </figure>
 
-Crop domestication is an area of study that seeks to understand not only how, but where and when humans began cultivating and directing the evolution of a crop and how that domesticated species differs from its progenitor and wild relatives. Domestication in perennial crops is less clear as the progenitor species are not always known, generation time can complicates some study methods, they retain a high degree of heterozygosity, and typically have a low degree of population structure. To gain a deeper understanding of their origins, modifications leading to their present morphology, and when and where these processes occurred has direct implications for crop improvement. Identifying the extent of genetic diversity of the domesticated crop and their wild relatives and how it is expressed may contribute to crop improvement, understanding selection within the domesticate and its wild relatives and which are likely to result in genetic gains. I am currently investigating the demographic history or changes in population size and structure over time and selection in <i>Prunus</i> subgenus <i>Amygdalus</i>, the subgenus with almond and peach, using genomic data. I really enjoy working with <i>Prunus</i> subgenus <i>Amygdalus</i> as a study system for domestication, but also feel it is an excellent system for understanding adaptation and mating system differences in trees. The major questions I hope to answer are: (1) What is the relationship between species of subgenus <i>Amygdalus</i>?, (2) Does selection in the subgenus correspond to domestication status, climate, or matingy system?, and (3) How can genetic diversity of wild species in <i>Prunus</i> subgenus <i>Amygdalus</i> be utilized for crop improvement?
+Crop domestication is an area of study that seeks to understand not only how, but where and when humans began cultivating and directing the evolution of a crop and how that domesticated species differs from its progenitor and wild relatives. Domestication in perennial crops is less clear as the progenitor species are not always known, generation time can complicates some study methods, they retain a high degree of heterozygosity, and typically have a low degree of population structure. To gain a deeper understanding of their origins, modifications leading to their present morphology, and when and where these processes occurred has direct implications for crop improvement. Identifying the extent of genetic diversity of the domesticated crop and their wild relatives and how it is expressed may contribute to crop improvement, understanding selection within the domesticate and its wild relatives and which are likely to result in genetic gains. I am currently investigating the demographic history or changes in population size and structure over time and selection in _Prunus_ subgenus _Amygdalus_, the subgenus with almond and peach, using genomic data. I really enjoy working with _Prunus_ subgenus _Amygdalus_ as a study system for domestication, but also feel it is an excellent system for understanding adaptation and mating system differences in trees. The major questions I hope to answer are: (1) What is the relationship between species of subgenus _Amygdalus_?, (2) Does selection in the subgenus correspond to domestication status, climate, or matingy system?, and (3) How can genetic diversity of wild species in _Prunus_ subgenus _Amygdalus_ be utilized for crop improvement?
 </p>
 
 ## Rootstock Improvement 
@@ -35,10 +35,15 @@ Crop domestication is an area of study that seeks to understand not only how, bu
 </div>
 </figure>
 
-Rootstock are commonly used with perennial crops for improved resistance to soilborne pests and pathogens, resilience to abiotic stressors, difficult to root cultivars or species, or ease of rootstock propagation and grafting. Throughout history rootstocks have been generated as seedling populations from open pollination or specific hybrid crosses. More recently growers have increasingly adopted clonally propagated selections of intra- or inter-specific hybrids due to their more consistent performance. The goals of my research are to develop or aid in the development of improved clonal rootstocks for tree crops. Rootstock development in woody perennials requires careful planning due to their life cycle. Progeny testing to identify trees of interest for use in directed crosses. During and prior to my PhD, I made interspecific crosses of _Juglans_, _Prunus_, and _Pistacia_ towards the efforts to identify a) novel individuals with superior performance to available rootstock varieties, b) generate populations gwas testing in collaboration with plant pathology screens, and c) identify trees within germplasm suitable for continued use in breeding efforts.</p>
+Rootstock are commonly used with perennial crops for improved resistance to soilborne pests and pathogens, resilience to abiotic stressors, difficult to root cultivars or species, or ease of rootstock propagation and grafting. Throughout history rootstocks have been generated as seedling populations from open pollination or specific hybrid crosses. More recently growers have increasingly adopted clonally propagated selections of intra- or inter-specific hybrids due to their more consistent performance. The goals of my research are to develop or aid in the development of improved clonal rootstocks for tree crops. Rootstock development in woody perennials requires careful planning due to their life cycle. Progeny testing to identify trees of interest for use in directed crosses. During and prior to my PhD, I made interspecific crosses of _Juglans_, _Prunus_, and _Pistacia_ towards the efforts to identify a) novel individuals with superior performance to available rootstock varieties, b) generate populations gwas testing in collaboration with plant pathology screens, and c) identify trees within germplasm suitable for continued use in breeding efforts.
 </p>
 
 But what have I done???? nothing
+
+
+
+## Climate Resilience
+<p align="justify">
 
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
@@ -46,10 +51,6 @@ But what have I done???? nothing
 	<figcaption><i>Making interspecific Juglans (walnut) crosses</i></figcaption>
 </div>
 </figure>
-
-
-## Climate Resilience
-<p align="justify">
 
 The western US and other Mediterranean climates are characterized by no or negligible summer precipitation, however, water during the growing season is necessary for agricultural production. Climate change, as projected by climate models of the past several decades, has resulted in more extreme weather conditions, evidenced by California's second drought in the past X years only interspersed by floods. Resilience to drought is a key trait for crops to withstand fluctuations in water availability. Irrigation leads to excess salt build up and tolerance to this needed as well. Look for crops that are a) suitable for the changing climate, b) still economically worthwhile, c) do not further contribute to climate change, d) net reduction in greenhouse gas production
 </p>
@@ -107,3 +108,8 @@ apple, stone fruit, olive, meyer lemon, strawberry for deficit irrigation crops
 </p>
 
 Born in California and raised in the North Bay Area from an early age, I have experienced first-hand the periodic droughts and floods that affect the region. More recently cyclical swings between these extremes occur with greater intensity and increased frequency, as predicted by climate models. Utilizing crops resilient to these extremes and adopting sustainable or regernerative agricultural practices (such as mulching, composting, minimal soil disturbance, integrated animal ) to alleviate and mitigate the most detrimental effects in order for farmers to maintain their livelihood through reliable production (naive statement). Genetic improvement for improved water use efficiency, nutrient acquisition...
+
+ Since many perennial tree crops are clonally propagated, produced by grafting scion and rootstock cultivars, it is important to understand the genetic control of important traits in both and utilize that knowledge to breed for resilience to changing biotic and abiotic conditions. 
+ 
+ The introduction of scion cultivars may range from several years to multiple hundreds of years since introduction and are maintained clonally due to superior traits or value in breeding.
+
