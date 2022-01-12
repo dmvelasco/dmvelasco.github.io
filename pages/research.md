@@ -9,7 +9,7 @@ bigimg: "/img/bg_almondnurseryblock_2016-02-21.JPG"
 
 
 <p align="justify">
-Broadly, my research interests include perennial fruit and nut tree crop domestication, evolution, and germplasm and their use in plant breeding for increased pest, disease, and abiotic stress tolerance. I enjoy exploring these lines of inquiry through genomics to better understand the genetic variation in germplasm and where selection has operated on the genome to identify loci of interest that may expedite breeding efforts in perennial crops. I feel this area is an important part of the efforts - such as regenerative and sustainable agriculture, agroecology, and integrated pest management - to reduce the impact of agriculure on the environment. My goal is that my research can be directly or indirectly applicable to farms or gardens.
+Broadly, my research interests include perennial fruit and nut tree crop domestication, evolution, and germplasm and their use in plant breeding for increased pest, disease, and abiotic stress tolerance. I enjoy exploring these lines of inquiry to better understand genetic variation in germplasm and where selection has operated on the genome to identify loci of interest that may expedite breeding efforts in perennial crops. I feel this area is an important part of the broad efforts - such as regenerative and sustainable agriculture, agroecology, and integrated pest management - to reduce the impact of agriculure on the environment. My goal is for my research to be directly or indirectly applicable as an aid to farmers and gardeners.
 </p>
 
 ## Domestication of Tree Crops
@@ -34,13 +34,13 @@ Rootstock are commonly used with perennial crops for improved resistance to soil
 
 ## Climate Resilience
 <figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<img src="/img/dv_walnut.jpg" width="300" alt="Dianne Velasco hybridizing Juglans microcarpa with Juglans regia">
 	<figcaption><i>Making interspecific Juglans (walnut) crosses</i></figcaption>
 </div>
 </figure>
 
-The western US and other Mediterranean climates are characterized by no or negligible summer precipitation, however, water during the growing season is necessary for agricultural production. Climate change, as projected by climate models of the past several decades, has resulted in more extreme weather conditions, evidenced by California's second drought in the past X years only interspersed by floods. Resilience to drought is a key trait for crops to withstand fluctuations in water availability. Irrigation leads to excess salt build up and tolerance to this needed as well. Look for crops that are a) suitable for the changing climate, b) still economically worthwhile, c) do not further contribute to climate change, d) net reduction in greenhouse gas production
+Much of the western United States, and particularly the Mediterranean climate of California, is characterized by no or negligible summer precipitation. However, agricultural production necessitates water use during the spring through fall growing season. Climate models produced during the past several decades through the present project extreme cyclical weather conditions due to climate change. This has become evident as California has cycled between drought and flood during the past X years.  To withstand these fluctuations in water availability it is key for long lived crops to not only be resilient to drought but also flooding. Look for crops that are a) suitable for the changing climate, b) still economically worthwhile, c) do not further contribute to climate change, d) net reduction in greenhouse gas production.
 
 <!--
 ## Genetic Gain
@@ -52,14 +52,12 @@ As a postdoc, my research aims to understand how selection has influenced the ge
 
 This species is especially exciting as it produces glucosinolates (also known as mustard oils), which impart the characteristic Brassica flavor, have co-evolved with pests, and have putative health benefits.
 
-## Germplasm
-## Drought
-## Specialty Crops
+## Specialty Crop Germplasm
 -->
 <figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+<div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/earlypeach.JPG" width="300" alt="Fruit set after controlled pollination in peach" align="left">
-	<figcaption><i>Fruit set after controlled pollination in peach.</i></figcaption>
+	<figcaption><i>Fruit set of peach after controlled pollination.</i></figcaption>
 </div>
 </figure>
 <!--
@@ -83,4 +81,4 @@ apple, stone fruit, olive, meyer lemon, strawberry for deficit irrigation crops
 Born in California and raised in the North Bay Area from an early age, I have experienced first-hand the periodic droughts and floods that affect the region. More recently cyclical swings between these extremes occur with greater intensity and increased frequency, as predicted by climate models. Utilizing crops resilient to these extremes and adopting sustainable or regernerative agricultural practices (such as mulching, composting, minimal soil disturbance, integrated animal ) to alleviate and mitigate the most detrimental effects in order for farmers to maintain their livelihood through reliable production (naive statement). Genetic improvement for improved water use efficiency, nutrient acquisition...
 Since many perennial tree crops are clonally propagated, produced by grafting scion and rootstock cultivars, it is important to understand the genetic control of important traits in both and utilize that knowledge to breed for resilience to changing biotic and abiotic conditions. 
 The introduction of scion cultivars may range from several years to multiple hundreds of years since introduction and are maintained clonally due to superior traits or value in breeding.
- -->
+-->
