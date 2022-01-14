@@ -32,50 +32,48 @@ Crop domestication is an area of study that seeks to understand not only how, bu
 
 Rootstock are commonly used with perennial crops for improved resistance to soilborne pests and pathogens, resilience to abiotic stressors, difficult to root cultivars or species, or ease of rootstock propagation and grafting. Throughout history rootstocks have been generated as seedling populations from open pollination or specific hybrid crosses. More recently growers have increasingly adopted clonally propagated selections of intra- or inter-specific hybrids due to their more consistent performance. The goals of my research are to develop or aid in the development of improved clonal rootstocks for tree crops. Rootstock development in woody perennials requires careful planning due to their life cycle. Progeny testing to identify trees of interest for use in directed crosses. During and prior to my PhD, I made interspecific crosses of _Juglans_, _Prunus_, and _Pistacia_ towards the efforts to identify a) novel individuals with superior performance to available rootstock varieties, b) generate populations gwas testing in collaboration with plant pathology screens, and c) identify trees within germplasm suitable for continued use in breeding efforts.
 
-## Climate Resilience
-<figure>
-<div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/dv_walnut.jpg" width="300" alt="Dianne Velasco hybridizing Juglans microcarpa with Juglans regia">
-	<figcaption><i>Making interspecific Juglans (walnut) crosses</i></figcaption>
-</div>
-</figure>
-
-Much of the western United States, and particularly the Mediterranean climate of California, is characterized by no or negligible summer precipitation. However, agricultural production necessitates water use during the spring through fall growing season. Climate models produced during the past several decades through the present project extreme cyclical weather conditions due to climate change. This has become evident as California has cycled between drought and flood during the past X years.  To withstand these fluctuations in water availability it is key for long lived crops to not only be resilient to drought but also flooding. Look for crops that are a) suitable for the changing climate, b) still economically worthwhile, c) do not further contribute to climate change, d) net reduction in greenhouse gas production.
-
-<!--
-## Genetic Gain
-Genetic gain through plant breeding is an essential means to ensure a stable, nutritious, and sustainable food supply. The ultimate goals of my research are to directly or indirectly facilitate this process by studying patterns of genetic diversity and understanding the inheritance of traits that are important for applied crop improvement.
-
-During my PhD, I used a diallel mating design, an F2 mapping population, and image-based phenotyping to describe the genetic architecture of shoot growth in carrots, which is important for successful crop establishment.
-
-As a postdoc, my research aims to understand how selection has influenced the genetic, morphological, and metabolic diversity present in _Brassica oleracea_, which, depending on who you ask, contains up to 14(!) distinct morphotypes.
-
-This species is especially exciting as it produces glucosinolates (also known as mustard oils), which impart the characteristic Brassica flavor, have co-evolved with pests, and have putative health benefits.
-
-## Specialty Crop Germplasm
--->
+## Tree Crop Germplasm
 <figure>
 <div style="float: right; padding-left: 25px; padding-bottom: 25px">
 	<img src="/img/earlypeach.JPG" width="300" alt="Fruit set after controlled pollination in peach" align="left">
 	<figcaption><i>Fruit set of peach after controlled pollination.</i></figcaption>
 </div>
 </figure>
+
+
 <!--
-resilience to drought
-reconsider more drought adapted crops
+## Climate Resilience
+<figure>
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<img src="/img/dv_walnut.jpg" width="300" alt="Dianne Velasco hybridizing Juglans microcarpa with Juglans regia">
+	<figcaption><i>Making interspecific Juglans (walnut) <br />crosses</i></figcaption>
+</div>
+</figure>
+
+Much of the western United States, particularly the Mediterranean climate of California, is characterized by no or negligible summer precipitation. However, agricultural production necessitates water use during the spring through fall growing season. Climate models produced during the past several decades through the present project extreme cyclical weather conditions due to climate change. This has become evident as California has cycled between drought and flood during the past X years. To withstand these fluctuations in water availability it is key for long lived crops to not only be resilient to drought but also flooding. Look for crops that are a) suitable for the changing climate, b) still economically worthwhile, c) do not further contribute to climate change, d) net reduction in greenhouse gas production.
+-->
+
+<!--
+## Genetic Gain
+Genetic gain through plant breeding is an essential means to ensure a stable, nutritious, and sustainable food supply. The ultimate goals of my research are to directly or indirectly facilitate this process by studying patterns of genetic diversity and understanding the inheritance of traits that are important for applied crop improvement. During my PhD, I used a diallel mating design, an F2 mapping population, and image-based phenotyping to describe the genetic architecture of shoot growth in carrots, which is important for successful crop establishment. As a postdoc, my research aims to understand how selection has influenced the genetic, morphological, and metabolic diversity present in _Brassica oleracea_, which, depending on who you ask, contains up to 14(!) distinct morphotypes. This species is especially exciting as it produces glucosinolates (also known as mustard oils), which impart the characteristic Brassica flavor, have co-evolved with pests, and have putative health benefits.
+-->
+
+<!--
+Specialty Crops Advisor position Marin, Napa, and Sonoma counties
+Indigenous peoples of course occupied and stewarded the lands of all three counties prior to colonization. The recorded agricultural histories of the counties post-colonization by Russia and Mexico have gone through many phases some of which, like viticulture, poultry farming, dairying, and ranching, are still active in the region. Sonoma county, in particular, is known widely not solely for viticulture and wine making but also as the headquarters for the experimental endeavors of Luther Burbank and thus specialty crops of tree fruit and nuts.
+apples, particularly Gravenstein (other cultivars?)
+olives (what cultivars?) primarily for olive oil. characterize diff varieties? olive variety trials?
+Possible other specialty crops to consider, particularly in Sonoma County, are quince, meyer lemon, fig, pomegranate, lavender, small fruits (blackberry, raspberry, strawberry), avocado (CRFG has ), hops (making a resurgence, unfortunately may be more water intesnse)
+nursery crops (export seems mostly related to viticulture)
 characterizing germplasm, familiarity with specialty crops & issues
-what kind of applied research would i want to do that would improve specialty crops?
-olive oil characterization of diff varieties? olive variety trials?
-advertised position focus areas mention ornamental horticulture, specialty small grains.
-apple is important, especially gravenstein. quince as specialty?
-decently sized rose and dahlia places, as well as seed bank (baker creek).
-fig, pomegranate, stone fruit, small fruit (blueberries, blackberry, raspberry), lavender
-how big is home gardening, community gardens, garden clubs (I seem to recall there is a gardening club in Sonoma Co, not sure whether it is active)
+what kind of applied research would i want to do that would improve specialty crops? regenrative agriculture, dryland farming, wildfire, climate, hedgerows or other planting of natives to promote/support pollinator and wildlife diversity - see SAREP elderberry research
+survey growers as to needs regarding growing or marketing what they already grow
 county is non-gmo - regenerative ag? do livestock producers/processors and farmers (plant) work together/support each other? are there closed loop regenerative farms.
+advertised position focus areas mention ornamental horticulture, specialty small grains (what are these? barley?).
+ornamental - decently sized rose and dahlia places, as well as seed bank (baker creek).
+responsibility for uc master gardener program
+how big is home gardening, community gardens, garden clubs (I seem to recall there is a gardening club in Sonoma Co, not sure whether it is active)
 loads of farmers markets, how else are small farmers marketing their products
-long history of variety trials/development in Sonoma County (Burbank)
-drought, climate change, wildfire, abiotic resilience
-hedgerows or other planting of natives to promote/support pollinator and wildlife diversity - see SAREP elderberry research
 avocado for regional market? local sales. Camellia sinensis (tea)? hardy citrus? hops?
 apple, stone fruit, olive, meyer lemon, strawberry for deficit irrigation crops
 Born in California and raised in the North Bay Area from an early age, I have experienced first-hand the periodic droughts and floods that affect the region. More recently cyclical swings between these extremes occur with greater intensity and increased frequency, as predicted by climate models. Utilizing crops resilient to these extremes and adopting sustainable or regernerative agricultural practices (such as mulching, composting, minimal soil disturbance, integrated animal ) to alleviate and mitigate the most detrimental effects in order for farmers to maintain their livelihood through reliable production (naive statement). Genetic improvement for improved water use efficiency, nutrient acquisition...
